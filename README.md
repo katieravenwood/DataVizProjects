@@ -1,4 +1,4 @@
-# DataViz Projects
+# Data Visualization Projects
 Personal data visualization projects including challenge entries.
 
 ## Challenges:
