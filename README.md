@@ -4,7 +4,7 @@ Personal data visualization projects including challenge entries.
 ## Challenges:
 
 ### Maven Analytics Challenges
-Visualizations related to various Maven Analytics Challenges, some submitted for competition, some completed for practice purposes after challenges have closed. Information and starter datasets cab be found at https://www.mavenanalytics.io/data-playground
+Visualizations related to various Maven Analytics Challenges, some submitted for competition, some completed for practice purposes after challenges have closed. Information on challenges and starter datasets can be found at https://www.mavenanalytics.io/data-playground
 
 <table>
   <tr>
