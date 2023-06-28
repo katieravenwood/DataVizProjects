@@ -9,7 +9,7 @@ Projects based on interesting datasets and visualization ideas created using Tab
 
 <table>
   <tr>
-    <td colspan=2><b>(USA Weekly COVID-19 Community Levels by County)[https://public.tableau.com/app/profile/katie.ravenwood/viz/USAWeeklyCOVID-19CommunityLevelsbyCountyFeb22-Mar23/UnitedStatesCOVID-19LevelsbyCounty#2]</b></td>
+    <td colspan=2><b>USA Weekly COVID-19 Community Levels by County</b></td>
   </tr>
   <tr>
     <td><img src="https://github.com/katieravenwood/DataVizProjects/blob/215c4a353660774bc22c0b50a03a4e422626f40a/TableauViz/USCOVID-19LevelsbyCounty.png" width="200"></td>
@@ -22,7 +22,7 @@ Projects based on interesting datasets and visualization ideas created using Tab
     </td>
   </tr>
    <tr>
-    <td colspan=2><b>(US COVID Cases Over Time Racing Graph)[https://public.tableau.com/views/USCOVIDCasesOverTimeByStateMetroandTotalCasesvs_Deaths/USCOVIDCasesOverTime?:language=en-US&:display_count=n&:origin=viz_share_link]</b></td>
+    <td colspan=2><b>US COVID Cases Over Time Racing Graph</b></td>
   </tr>
   <tr>
     <td><img src="https://github.com/katieravenwood/DataVizProjects/blob/ea2a3de3f0bdfbaf311b117271f00f1add64bc78/TableauViz/US%20COVID%20Cases%20Over%20Time.png" width="200"></td>
@@ -30,7 +30,7 @@ Projects based on interesting datasets and visualization ideas created using Tab
       I experimented with a racing graph format showing the weekly change in COVID-19 cases from January of 2020 to August of 2022 by state or major metropolitan area, as reflected in the CDC's dataset of United States COVID-19 Cases and Deaths by State over Time in a two-page dashboard also showing the comparison of postive test cases and deaths over the same time period.<ul>
         <li>Single-sheet image: <a href="https://github.com/katieravenwood/DataVizProjects/blob/ea2a3de3f0bdfbaf311b117271f00f1add64bc78/TableauViz/US%20COVID%20Cases%20Over%20Time.png" width=100>US COVID Cases Over Time Racing Graph</a></li>
         <li>Interactive Tableau Dashboard: <a href="https://public.tableau.com/views/USCOVIDCasesOverTimeByStateMetroandTotalCasesvs_Deaths/USCOVIDCasesOverTime?:language=en-US&:display_count=n&:origin=viz_share_link">US COVID Cases Over Time Racing Graph Interactive Dashboard</a></li></ul>
-        <li>Original Data Source: a href="https://data.cdc.gov/d/9mfq-cb36">United States COVID-19 Cases and Deaths by State over Time</li>a></li>
+        <li>Original Data Source: <a href="https://data.cdc.gov/d/9mfq-cb36">United States COVID-19 Cases and Deaths by State over Time</a></li>
     </td>
   </tr>
 </table>
