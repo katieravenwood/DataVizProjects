@@ -4,7 +4,7 @@ Personal data visualization projects including challenge entries.
 ## Independent Projects
 
 ### Tableau Visualizations
-Projects based on interesting datasets and visualization ideas created using Tableau public and various public and personally created datasets. <br />
+Projects based on interesting datasets and visualization ideas created using Tableau public and various public and personally created datasets. <br /><br />
 [Tableau Public Profile: Katie Ravenwood](https://public.tableau.com/app/profile/katie.ravenwood)
 
 <table>
@@ -18,7 +18,7 @@ Projects based on interesting datasets and visualization ideas created using Tab
       <ul>
         <li>Single-sheet image: <a href="https://github.com/katieravenwood/DataVizProjects/blob/215c4a353660774bc22c0b50a03a4e422626f40a/TableauViz/USCOVID-19LevelsbyCounty.png" width=100>USA Weekly COVID-19 Community Levels by County</a></li>
         <li>Interactive Tableau Dashboard: <a href="https://public.tableau.com/views/USAWeeklyCOVID-19CommunityLevelsbyCountyFeb22-Mar23/UnitedStatesCOVID-19LevelsbyCounty?:language=en-US&:display_count=n&:origin=viz_share_link">USA Weekly COVID-19 Community Levels by County Tableau Dashboard</a></li></ul>
-      <b>Source Data:</b> CDC: (United States COVID-19 Community Levels By County)[https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-Community-Levels-by-County/3nnm-4jni]
+      <b>Source Data:</b> <a href="https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-Community-Levels-by-County/3nnm-4jni">CDC: United States COVID-19 Community Levels By County</a>
     </td>
   </tr>
    <tr>
