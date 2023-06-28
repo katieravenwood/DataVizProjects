@@ -12,7 +12,7 @@ Projects based on interesting datasets and visualization ideas created using Tab
     <td colspan=2><b>USA Weekly COVID-19 Community Levels by County</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/katieravenwood/DataVizProjects/blob/215c4a353660774bc22c0b50a03a4e422626f40a/TableauViz/USCOVID-19LevelsbyCounty.png" width="200"></td>
+    <td><img src="https://github.com/katieravenwood/DataVizProjects/blob/215c4a353660774bc22c0b50a03a4e422626f40a/TableauViz/USCOVID-19LevelsbyCounty.png" width="400"></td>
     <td>
       Heat map by county of community levels of COVID-19 as provided by the CDC from February 2022 to March 2023.<br />
       <ul>
@@ -25,7 +25,7 @@ Projects based on interesting datasets and visualization ideas created using Tab
     <td colspan=2><b>US COVID Cases Over Time Racing Graph</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/katieravenwood/DataVizProjects/blob/ea2a3de3f0bdfbaf311b117271f00f1add64bc78/TableauViz/US%20COVID%20Cases%20Over%20Time.png" width="200"></td>
+    <td><img src="https://github.com/katieravenwood/DataVizProjects/blob/ea2a3de3f0bdfbaf311b117271f00f1add64bc78/TableauViz/US%20COVID%20Cases%20Over%20Time.png" width="400"></td>
     <td>
       I experimented with a racing graph format showing the weekly change in COVID-19 cases from January of 2020 to August of 2022 by state or major metropolitan area, as reflected in the CDC's dataset of United States COVID-19 Cases and Deaths by State over Time in a two-page dashboard also showing the comparison of postive test cases and deaths over the same time period.<br />
       <ul>
